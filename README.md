@@ -4,7 +4,7 @@ This is a simple system, Medical Insurance Management System. It's made by java 
 And the program entrance is the main.java.In this system, I use the Mysql as the database that can store the data.
 You can to improve this system function, and send e-mail to me.Thank you！
 
-##系统需求分析
+## 系统需求分析
 职工医疗保险管理系统，用来对职工的个人医保帐户进行管理。
 * 每个职工有一个位数为12位的帐号唯一的医保卡，有支付密码，记录该职工的帐上余额。
 * 每个职工有一个16位的工资卡，有支付密码，与职工的个人工资帐户相关联。
