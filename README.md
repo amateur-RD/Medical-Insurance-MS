@@ -86,4 +86,14 @@ Operations
 ```
 ## 系统用例图
 ![用例图](https://github.com/amateur-RD/MIMS/raw/master/系统截图/UserCase.JPG "用例图")
-![关联图](https://github.com/amateur-RD/MIMS/raw/master/系统截图/关联.JPG "用例对应关系图")
+图1 用例图
+![](https://github.com/amateur-RD/MIMS/raw/master/系统截图/关联.JPG "用例对应关系图")
+图2 用例对应关系图
+
+## 系统界面
+![](https://github.com/amateur-RD/MIMS/raw/master/系统截图/系统主界面.png "系统主界面")
+图1 主界面
+![](https://github.com/amateur-RD/MIMS/raw/master/系统截图/入保.png "用户入保")
+图2 用户入保
+![](https://github.com/amateur-RD/MIMS/raw/master/系统截图/挂失.png "用户挂失")
+图3 用户挂失
