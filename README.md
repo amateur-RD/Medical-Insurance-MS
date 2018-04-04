@@ -24,6 +24,7 @@ Attributes
   private float Pay;//工资
   public float MBalance;//医保卡余额
   public Boolean state;//医保卡
+  
 Operations
   public User();
   public User(String name,float pay);
@@ -83,3 +84,4 @@ Operations
   public String getColumnName(int column);//重写模型的列名
 
 ```
+## 系统用例图
