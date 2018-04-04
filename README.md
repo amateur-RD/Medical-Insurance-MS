@@ -85,4 +85,5 @@ Operations
 
 ```
 ## 系统用例图
-![](https://github.com/amateur-RD/MIMS/raw/master/系统截图/UserCase.JPG)
+![用例图](https://github.com/amateur-RD/MIMS/raw/master/系统截图/UserCase.JPG "用例图")
+![关联图](https://github.com/amateur-RD/MIMS/raw/master/系统截图/关联.JPG "用例对应关系图")
